@@ -1,3 +1,5 @@
+# Copies existing objects to create new ones.
+
 import copy
 
 

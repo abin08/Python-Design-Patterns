@@ -1,3 +1,5 @@
+# Separates complex object construction from its representation.
+
 class Car():
     """Product"""
 

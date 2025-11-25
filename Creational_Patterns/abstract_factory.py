@@ -1,3 +1,5 @@
+# Creates families of related objects
+
 class Dog:
     """One of the objects to be returned"""
 

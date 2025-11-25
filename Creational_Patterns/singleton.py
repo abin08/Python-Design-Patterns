@@ -1,3 +1,5 @@
+# Ensures a class has only one instance with global access.
+
 class Borg:
     """The Borg design pattern"""
 

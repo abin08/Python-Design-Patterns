@@ -1,3 +1,5 @@
+# Lets subclasses decide which class to instantiate for a single object.
+
 class Dog:
     """A simple Dog class"""
 
