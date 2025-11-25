@@ -1,5 +1,6 @@
 """
 One to many relations
+Defines a one-to-many dependency where dependents are notified of state changes.
 Problem:
     > Subject needs to be monitored
     > Observers to be notified when there is a change in the subject

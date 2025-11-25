@@ -1,3 +1,5 @@
+# Adds responsibilities to objects dynamically.
+
 from functools import wraps
 
 

@@ -1,0 +1,1 @@
+# Supports large numbers of objects efficiently through sharing.

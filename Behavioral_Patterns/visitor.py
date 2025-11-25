@@ -1,0 +1,1 @@
+# Represents an operation to be performed on object structure elements without changing their classes. 

@@ -1,0 +1,1 @@
+# Provides a placeholder or surrogate for another object to control access.

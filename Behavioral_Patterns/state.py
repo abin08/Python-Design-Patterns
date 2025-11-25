@@ -1,0 +1,1 @@
+# Allows an object to change behavior based on its internal state.

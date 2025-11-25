@@ -1,0 +1,1 @@
+# Provides sequential access to elements without exposing the underlying structure.

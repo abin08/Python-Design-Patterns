@@ -1,0 +1,1 @@
+# Allows multiple objects to handle a request, decoupling sender and receiver.

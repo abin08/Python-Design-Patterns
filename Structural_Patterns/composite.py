@@ -1,0 +1,1 @@
+#  Treats individual objects and compositions uniformly in tree structures.

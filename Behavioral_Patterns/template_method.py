@@ -1,0 +1,1 @@
+# Defines an algorithm's skeleton, deferring steps to subclasses.

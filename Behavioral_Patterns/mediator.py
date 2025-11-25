@@ -1,0 +1,1 @@
+# Defines an object that manages how a set of objects interact, promoting loose coupling.

@@ -1,0 +1,1 @@
+# Decouples abstraction from implementation.

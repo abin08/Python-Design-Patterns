@@ -1,0 +1,1 @@
+# Captures and restores an object's internal state.
